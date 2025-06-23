@@ -1,4 +1,4 @@
-# Pairs-trading-
+# Pairs-trading
 
 This project implements a **market-neutral trading strategy** by identifying statistically cointegrated stock pairs and executing trades based on spread mean reversion. The notebook includes full data analysis, pair selection, trading signal generation, and strategy backtesting.
 
